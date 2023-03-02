@@ -8,9 +8,7 @@
       />
     </div>
     <div class="flex flex-row m-2 gap-1">
-      <div
-        class="w-8 h-8 rounded-full overflow-hidden m-1 flex-grow flex-shrink-0"
-      >
+      <div class="w-8 h-8 rounded-full overflow-hidden m-1 flex-shrink-0">
         <img id="userImage" v-bind:src="userImgUrl" />
       </div>
       <div class="flex flex-col items-start m-1">
