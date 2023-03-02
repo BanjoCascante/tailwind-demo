@@ -17,8 +17,10 @@
         <span id="title" class="text-xl text-left line-clamp-2">
           {{ title }}
         </span>
-        <span id="user" class="text-sm text-gray-500"> {{ userName }} </span>
-        <span id="view" class="text-sm text-gray-500">
+        <span id="user" class="text-sm text-gray-500 line-clamp-1 text-left">
+          {{ userName }}
+        </span>
+        <span id="view" class="text-sm text-gray-500 text-left">
           {{ Math.floor(Math.random() * 1000000) }} views
         </span>
       </div>
@@ -28,6 +30,7 @@
 
 <script lang="ts" setup>
 import { Prop, ref } from "vue";
+
 interface Props {
   title: string;
   videoThumbnailUrl: string;

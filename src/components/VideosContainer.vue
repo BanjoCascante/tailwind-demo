@@ -23,95 +23,83 @@ function randomNumber() {
 const videos = [
   {
     title: "The Truth About photo Will Shock You",
-    videoThumbnailUrl:
-      "https://picsum.photos/800/600?random=" + +randomNumber(),
-    userImgUrl: "https://picsum.photos/50/50?random=" + randomNumber(),
+    videoThumbnailUrl: "/assets/thumbnails/1.jpg",
+    userImgUrl: "/assets/profilePics/1.jpg",
     userName: "Luis Cascante",
   },
 
   {
     title: "The undiscovered /ugly /shocking /dangerous/.. truth about Antman",
-    videoThumbnailUrl:
-      "https://picsum.photos/800/600?random=" + +randomNumber(),
-    userImgUrl: "https://picsum.photos/50/50?random=" + randomNumber(),
-    userName: "Jose Retana",
+    videoThumbnailUrl: "/assets/thumbnails/2.jpg",
+    userImgUrl: "/assets/profilePics/2.jpg",
+    userName: "Tay Tay",
   },
 
   {
     title: "Is This The End of the Road For Zelda?",
-    videoThumbnailUrl:
-      "https://picsum.photos/800/600?random=" + +randomNumber(),
-    userImgUrl: "https://picsum.photos/50/50?random=" + randomNumber(),
-    userName: "Luis Trejos",
+    videoThumbnailUrl: "/assets/thumbnails/3.jpg",
+    userImgUrl: "/assets/profilePics/3.jpg",
+    userName: "Ronald Mauricio Montero",
   },
   {
     title: "The best Camera (hardware / software) you never know you needed",
-    videoThumbnailUrl:
-      "https://picsum.photos/800/600?random=" + +randomNumber(),
-    userImgUrl: "https://picsum.photos/50/50?random=" + randomNumber(),
-    userName: "",
+    videoThumbnailUrl: "/assets/thumbnails/4.jpg",
+    userImgUrl: "/assets/profilePics/4.jpg",
+    userName: "Ibai",
   },
 
   {
     title: "The Truth About photo Will Shock You",
-    videoThumbnailUrl:
-      "https://picsum.photos/800/600?random=" + +randomNumber(),
-    userImgUrl: "https://picsum.photos/50/50?random=" + randomNumber(),
-    userName: "Luis Cascante",
+    videoThumbnailUrl: "/assets/thumbnails/5.jpg",
+    userImgUrl: "/assets/profilePics/5.jpg",
+    userName: "David Lynch",
   },
 
   {
     title: "The undiscovered /ugly /shocking /dangerous/.. truth about Antman",
-    videoThumbnailUrl:
-      "https://picsum.photos/800/600?random=" + +randomNumber(),
-    userImgUrl: "https://picsum.photos/50/50?random=" + randomNumber(),
-    userName: "Jose Retana",
+    videoThumbnailUrl: "/assets/thumbnails/6.jpg",
+    userImgUrl: "/assets/profilePics/6.jpg",
+    userName: "Miyamoto-san",
   },
 
   {
     title: "Is This The End of the Road For Zelda?",
-    videoThumbnailUrl:
-      "https://picsum.photos/800/600?random=" + +randomNumber(),
-    userImgUrl: "https://picsum.photos/50/50?random=" + randomNumber(),
-    userName: "Luis Trejos",
+    videoThumbnailUrl: "/assets/thumbnails/7.jpg",
+    userImgUrl: "/assets/profilePics/7.jpg",
+    userName: "Solid Snake",
   },
   {
     title: "The best Camera (hardware / software) you never know you needed",
-    videoThumbnailUrl:
-      "https://picsum.photos/800/600?random=" + +randomNumber(),
-    userImgUrl: "https://picsum.photos/50/50?random=" + randomNumber(),
-    userName: "",
+    videoThumbnailUrl: "/assets/thumbnails/8.jpg",
+    userImgUrl: "/assets/profilePics/8.jpg",
+    userName: "Brandon Flores",
   },
 
   {
     title: "The Truth About photo Will Shock You",
-    videoThumbnailUrl:
-      "https://picsum.photos/800/600?random=" + +randomNumber(),
-    userImgUrl: "https://picsum.photos/50/50?random=" + randomNumber(),
-    userName: "Luis Cascante",
+    videoThumbnailUrl: "/assets/thumbnails/9.jpg",
+    userImgUrl: "/assets/profilePics/9.jpg",
+    userName: "John Cena",
   },
 
   {
     title: "The undiscovered /ugly /shocking /dangerous/.. truth about Antman",
-    videoThumbnailUrl:
-      "https://picsum.photos/800/600?random=" + +randomNumber(),
-    userImgUrl: "https://picsum.photos/50/50?random=" + randomNumber(),
-    userName: "Jose Retana",
+    videoThumbnailUrl: "/assets/thumbnails/10.jpg",
+    userImgUrl: "/assets/profilePics/10.jpg",
+    userName: "Barney Stinson",
   },
 
   {
     title: "Is This The End of the Road For Zelda?",
-    videoThumbnailUrl:
-      "https://picsum.photos/800/600?random=" + +randomNumber(),
-    userImgUrl: "https://picsum.photos/50/50?random=" + randomNumber(),
-    userName: "Luis Trejos",
+    videoThumbnailUrl: "/assets/thumbnails/11.jpg",
+    userImgUrl: "/assets/profilePics/11.jpg",
+    userName: "Jose Retana",
   },
   {
     title: "The best Camera (hardware / software) you never know you needed",
-    videoThumbnailUrl:
-      "https://picsum.photos/800/600?random=" + +randomNumber(),
-    userImgUrl: "https://picsum.photos/50/50?random=" + randomNumber(),
-    userName: "",
+    videoThumbnailUrl: "/assets/thumbnails/12.jpg",
+    userImgUrl: "/assets/profilePics/12.jpg",
+    userName: "The Game",
   },
 ];
 </script>
