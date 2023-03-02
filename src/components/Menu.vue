@@ -13,22 +13,22 @@ import MenuItem from "./MenuItem.vue";
 
 const menuOptions = [
   {
-    icon: "fa-magnifying-glass",
+    icon: "fa-house",
     text: "Home",
   },
 
   {
-    icon: "fa-magnifying-glass",
+    icon: "fa-clipboard",
     text: "Shorts",
   },
 
   {
-    icon: "fa-magnifying-glass",
+    icon: "fa-user-secret",
     text: "Subscriptions",
   },
 
   {
-    icon: "fa-magnifying-glass",
+    icon: "fa-play",
     text: "My Library",
   },
 ];
